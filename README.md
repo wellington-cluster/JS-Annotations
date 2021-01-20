@@ -72,6 +72,11 @@ In this topic I put some methods of how to modify Arrays in Javascript, being of
 | [Reduce] | [ImperativeVsDeclarative]|      [Concat&FlatMap]      |          |
 <br>
 
+# CSS
+
+Some tricks and reminders for me to CSS
+|[CSS]|
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -136,4 +141,5 @@ In this topic I put some methods of how to modify Arrays in Javascript, being of
    [Else If]:<https://github.com/VictorMarques98/JS-Annotations/blob/master/Estrutura-de-Controle/02.IF-ELSE-IF.js>
    [Switch]:<https://github.com/VictorMarques98/JS-Annotations/blob/master/Estrutura-de-Controle/03.SWITCH.js>
    [While]:<https://github.com/VictorMarques98/JS-Annotations/blob/master/Estrutura-de-Controle/04.WHILE.js>
+   [CSS]:<>
 
